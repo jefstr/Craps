@@ -1,0 +1,34 @@
+Simple Craps Implementation
+Jeff Parvin
+jpp30@pitt.edu
+20 Jan 2012
+
+
+INTRODUCTION
+
+A simple implementation of the casino game craps.
+
+
+FILES
+
+The following files should be present:
+
+     	craps.c - craps implementation
+  
+
+USAGE
+
+Compile in gcc (or C compiler of choice) with:
+
+     gcc -o craps craps.c
+
+Run with:
+
+     ./craps
+
+
+KNOWN PROBLEMS
+
+None.
+
+
